@@ -2,5 +2,5 @@
 
 This repository is a place with a lot of history.
 
-## Doc structure 
-Documentation list topics here
+## Subject titles
+add an information shortcut title for the sections of this repository
