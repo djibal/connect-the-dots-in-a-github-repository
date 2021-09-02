@@ -15,12 +15,16 @@ _List your favorite learning resources here._
     this local repository branches
   
 <div class="branch-list"> 
-   <li><a href="discoverable/">Crafting discoverable repositories</a></li>
+   <ul>
+    <p><strong>Innersource  branches | Topic lists</strong></p>
+    <li><a href="discoverable/">Crafting discoverable repositories</a></li>
     <li><a href="templates/">Useful templates</a></li>
     <li><a href="metrics/">Measuring success</a></li>
     <li><a href="repo-ownership/">Repository ownership</a></li>
    <li><a href="workflows/">Workflows</a></li>
- 
+</ul>
+</div>
+
  # topics 
 ### Read repository content in Each of these branches has its own comprehensive readme
 - # 
