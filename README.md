@@ -1,4 +1,4 @@
-# Working in a large repositories
+# Working in a large repository
 
 This repository is a place with a lot of history.
 
